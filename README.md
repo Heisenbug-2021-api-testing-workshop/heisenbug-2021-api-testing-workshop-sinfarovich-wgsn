@@ -16,6 +16,12 @@ https://github.com/sindresorhus/got#comparison
 - API client
 - Simple test cases
 
+### Part 2
+
+- Code optimizations
+- Reporting
+- CI
+
 ### TODO
 
 - tracking not from request builder only, but also from controller
