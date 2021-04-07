@@ -5,7 +5,7 @@ on:
 
 jobs:
   api-tests:
-    runs-on: unbunut-latest
+    runs-on: unbuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Use Node.js 15
