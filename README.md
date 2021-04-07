@@ -12,8 +12,9 @@ https://github.com/sindresorhus/got#comparison
 
 ### Part 1
 
-- Endpoint controllers
-- 
+- Endpoint controllers (API objects)
+- API client
+- Simple test cases
 
 ### TODO
 
