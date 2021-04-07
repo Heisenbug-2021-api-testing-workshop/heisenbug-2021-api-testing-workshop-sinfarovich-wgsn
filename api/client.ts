@@ -1,5 +1,5 @@
 import { CookieJar } from 'tough-cookie'
-import { CONFIG } from '../config/npmConfig';
+import { CONFIG } from '../config/npmconfig';
 import { PetController } from "./controller/pet.controller";
 import { UserController } from "./controller/user.controller";
 
