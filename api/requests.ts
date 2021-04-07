@@ -1,6 +1,6 @@
 import { JsonRequest } from 'http-req-builder'
 import { ResponseValidator } from 'response-openapi-validator'
-import { CONFIG } from '../config/npmConfig'
+import { CONFIG } from '../config/npmconfig'
 import { allure } from 'allure-mocha/dist/MochaAllureReporter'
 
 const responseValidator = new ResponseValidator({
